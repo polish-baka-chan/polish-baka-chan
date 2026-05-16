@@ -10,6 +10,18 @@
 
 ---
 
+## 🌈 CHAOS.EXE RUNNING
+
+```
+╔═══════════════════════════════════════════╗
+║        🌈 CHAOS.EXE v2.0 ONLINE 🌈       ║
+║   miku eternal × breakcore × based        ║
+║      polish-baka-chan's shrine zone       ║
+╚═══════════════════════════════════════════╝
+```
+
+---
+
 ## 🎵 About Me
 
 ```yaml
@@ -33,6 +45,25 @@ fortnite: false
   no bash crimes
 
 - 🎮 Started coding at 11 and never stopped
+
+---
+
+## 🎲 RANDOM STATUS GENERATOR
+
+```javascript
+const chaosStatus = [
+  '🎵 Converting all files to breakcore.mp3',
+  '💀 Debugging the fabric of reality',
+  '🐧 Arch Linux speedrun (0 crashes - no cap)',
+  '🔥 Running on pure Miku energy (no RAM needed)',
+  '😴 404: Sleep Protocol Not Found',
+  '⚡ Compiling miku-forever.exe',
+  '🌀 Achieving maximum chaos state',
+  '🎪 Currently in hyperfocus mode (send help)',
+  '🧠 Brain.exe consuming 9001% CPU'
+];
+// Refresh to get random status
+```
 
 ---
 
@@ -151,6 +182,55 @@ $ neofetch
 ├─ Touch Grass:        ░░░░░░░░░░  0%
 ├─ Sleep Schedule:     ░░░░░░░░░░ -420%
 └─ Breakcore Vibes:    ██████████ 💯 IMMACULATE
+```
+
+---
+
+## 🎭 TIER LIST / POWER RANKING
+
+```
+S+ TIER: ════════════════════════════════
+  └─ 🎵 Hatsune Miku (THE ETERNAL ONE)
+  └─ 🔥 Breakcore Music (CHAOS FUEL)
+
+S  TIER: ════════════════════════════════
+  └─ 🐧 Arch Linux (rolling release god)
+  └─ 🎨 Hyprland (compositor perfection)
+  └─ 🐚 Fish Shell (bash is crime)
+  └─ 🖥️ Self-hosting (freedom pills)
+
+A  TIER: ════════════════════════════════
+  └─ ✏️ LazyVim (editor supremacy)
+  └─ 🎮 osu! (rhythm game excellence)
+  └─ 🧊 Caelestia Shell (custom vibes)
+
+D  TIER: ════════════════════════════════
+  └─ 😴 Sleep (overrated concept)
+  └─ 🌱 Grass (outdated.exe)
+  └─ 👥 Social interaction (lag issues)
+
+F  TIER: ════════════════════════════════
+  └─ 🪟 Windows (bloatware central)
+  └─ 💤 Sleep Schedule (skill issue)
+  └─ 🔗 Bash (crimes against humanity)
+```
+
+---
+
+## 🧩 BADGE COLLECTION
+
+```
+🏅 CERTIFIED BADGES:
+├─ 🏆 Based Certified (OFFICIAL)
+├─ 🎵 Miku Devoted (ETERNAL)
+├─ 🐧 Arch Veteran (NO REGRETS)
+├─ 💀 Sleep Deprived Warrior (PROUD)
+├─ 🔥 Chaos Incarnate (UNSTOPPABLE)
+├─ 🌀 Breakcore Connoisseur (APPROVED)
+├─ 🎯 Self-Hosted Legend (INDEPENDENT)
+├─ 🧠 Code Wizard (DEBUGGING MASTER)
+├─ 🎮 Gaming Enthusiast (COMPETITIVE)
+└─ 👑 Miku Simp Royalty (FOREVER)
 ```
 
 ---
