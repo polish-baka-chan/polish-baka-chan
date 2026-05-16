@@ -211,14 +211,6 @@ Miku królowa.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=polish-baka-chan&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polish-baka-chan&layout=compact)
-
----
-
 ## 🎵 Last.fm
 
 **[@pepstin](https://www.last.fm/user/pepstin)**
