@@ -4,6 +4,8 @@
 
 `Miku songs listened: milions`
 
+[![Support on Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-FF5E5B?logo=kofi)](https://ko-fi.com/michalbarnik)
+
 </div>
 
 ---
