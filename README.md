@@ -65,6 +65,18 @@ editor: LazyVim
 
 ---
 
+## 📌 Dots & Links
+
+My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all my configuration files for:
+- 🎨 **Hyprland** - Wayland compositor configuration
+- 🐚 **Fish Shell** - Shell environment & aliases
+- ✏️ **LazyVim** - Neovim configuration
+- 🎯 **Caelestia Shell** - Custom shell theming & utilities
+
+**Related**: [**Caelestia Shell**](https://github.com/caelestia) - Modern shell framework for enhanced terminal experience
+
+---
+
 ## 📚 Currently Learning
 
 - Fullstack JavaScript
