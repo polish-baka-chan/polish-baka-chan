@@ -287,7 +287,58 @@ Miku królowa.
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | **Kaszojad** | Miku-themed Discord bot | Node.js / discord.js / sql.js | 🟢 Active |
-| **MikuOS** | Custom Arch-based distro | Arch / custom build system | 🟡 WIP |
+| **MikuOS** | Custom Arch-based distro | Arch / custom build system | ⏳ Pending |
+
+---
+
+## 🎬 MOVIE CREDITS / PRODUCTION INFO
+
+```
+═══════════════════════════════════════════
+        THE ADVENTURES OF POLISH-BAKA-CHAN
+          
+         PRODUCED BY: Miku Studios ™
+        DIRECTED BY: Sleep Deprivation™
+      STARRING: polish-baka-chan (chaos.exe)
+      FEATURING: Hatsune Miku, Breakcore, Pain
+    CINEMATOGRAPHY: Arch Linux (4K 60fps)
+        EDITING: Fish Shell (no bash crimes)
+      MUSIC: Breakcore Eternal Soundtrack
+        
+         NO GRASS WAS TOUCHED
+       IN THE MAKING OF THIS README
+           
+    Special Thanks To: Miku Forever™
+═══════════════════════════════════════════
+```
+
+---
+
+## ⚡ POWER LEVELS OVER 9000
+
+```
+📊 POWER LEVELS:
+  🔋 Miku Power:         ██████████ 9001+
+  💪 Based Level:        ██████████ MAXIMUM
+  🎪 Chaos Potential:    ██████████ INFINITY
+  📈 GitHub Dominance:   ██████████ ASCENDING
+  🧠 IQ Points Lost:     ██████████ -9001
+  🎵 Breakcore Energy:   ██████████ UNSTOPPABLE
+```
+
+---
+
+## 🏃 SPEEDRUN STATISTICS
+
+```
+🏃 PERSONAL BESTS:
+├─ Arch Install speedrun: 7 mins (PB!)
+├─ Dotfiles config: 5 minutes (no cap)
+├─ MikuOS compile time: [IN PROGRESS] ⏳
+├─ Time to hear Miku song: 0.1 seconds
+├─ Sleep attempt: WORLD RECORD (NEVER)
+└─ Grass touching: [DATA NOT FOUND]
+```
 
 ---
 
