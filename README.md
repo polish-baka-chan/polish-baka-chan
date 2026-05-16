@@ -51,6 +51,18 @@ editor: LazyVim
 
 ---
 
+## 🌠 Chaos Meter / Energy Level
+
+```
+🔥 CHAOS ENERGY:      ████████░░ 85%
+😴 SLEEP LEVEL:       ░░░░░░░░░░  5%
+🎵 MIKU VIBES:        ██████████ 999%
+⌨️  CODE QUALITY:      ░░░██░░░░░ YOLO
+🧠 SANITY REMAINING:  ░░░░░░░░░░ -42%
+```
+
+---
+
 ## 🛠 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-green)
@@ -93,6 +105,83 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 [⏳] Finished MikuOS (work in progress...)
 [✗] Touch grass (impossible.exe failed)
 [✗] Sleep schedule (corrupted_file.tmp)
+```
+
+---
+
+## 💻 Terminal Command Easter Egg
+
+```bash
+$ whoami
+> polish-baka-chan (breakcore enthusiast)
+
+$ git status
+> On branch miku-eternal
+> Everything is chaotic but functional
+> nothing to commit, just vibes
+
+$ cat goals.txt
+> finish MikuOS
+> touch grass (IMPOSSIBLE)
+> sleep (DEPRECATED)
+> master Caelestia Shell
+> listen to more Miku
+
+$ fortune
+> "Why sleep when you can listen to Miku?"
+
+$ neofetch
+> OS: Arch Linux (CachyOS BORE)
+> Kernel: linux-cachyos
+> Uptime: 847 days (no sleep)
+> Miku Devotion: MAXIMUM ∞
+```
+
+---
+
+## 🎯 SKILL STATS ⚔️
+
+```
+⚔️ STAT BREAKDOWN ⚔️
+├─ JavaScript:         ████████░░ 80%
+├─ Linux Admin:        ██████████ 100%
+├─ Fish Shell:         ██████████ 999%
+├─ Miku Knowledge:     ██████████ ∞ (INFINITE)
+├─ Self-hosting:       █████████░ 95%
+├─ Touch Grass:        ░░░░░░░░░░  0%
+├─ Sleep Schedule:     ░░░░░░░░░░ -420%
+└─ Breakcore Vibes:    ██████████ 💯 IMMACULATE
+```
+
+---
+
+## 🎪 CURRENTLY OBSESSED WITH:
+
+```
+🎯 THE ETERNAL HYPERFOCUS:
+   ╔════════════════════════════════════╗
+   ║ → Hatsune Miku (THE ETERNAL ONE)   ║
+   ║ → Breakcore music (CHAOS ENERGY)   ║
+   ║ → Arch Linux optimization          ║
+   ║ → Hyprland configuration           ║
+   ║ → Building MikuOS                  ║
+   ║ → Caelestia Shell customization    ║
+   ║ → Self-hosting experiments         ║
+   ║ → Sleep? Never heard of her™       ║
+   ╚════════════════════════════════════╝
+```
+
+---
+
+## 💭 Wisdom of the Day
+
+```
+✨ TODAY'S TRANSMISSION ✨
+"Why sleep when you can listen to Miku 
+ and configure your Linux desktop?"
+
+             - polish-baka-chan, 2026
+             (heavily sleep deprived)
 ```
 
 ---
