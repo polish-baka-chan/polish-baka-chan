@@ -77,6 +77,26 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 
 ---
 
+## 🏆 Achievements Unlocked
+
+```
+🏆 ACHIEVEMENT COLLECTION:
+─────────────────────────────────────
+[✓] Listened to Miku 1M+ times
+[✓] Arch Linux user (certified no cap)
+[✓] Fish shell only lifestyle (bash-free zone)
+[✓] Self-hosting addict (random shit included)
+[✓] Breakcore enthusiast (chaos approved)
+[✓] Started coding at 11 (never stopped)
+[✓] Building Discord bot with Miku vibes
+[✓] Custom Linux distro in progress
+[⏳] Finished MikuOS (work in progress...)
+[✗] Touch grass (impossible.exe failed)
+[✗] Sleep schedule (corrupted_file.tmp)
+```
+
+---
+
 ## 📚 Currently Learning
 
 - Fullstack JavaScript
