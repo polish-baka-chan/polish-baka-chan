@@ -370,7 +370,7 @@ Miku królowa.
 - 🐙 **[GitHub](https://github.com/polish-baka-chan)**
 - 🎵 **[TikTok (main)](https://www.tiktok.com/@samsa_boykisser)**
 - 🎵 **[TikTok (sec)](https://www.tiktok.com/@sayori511)**
-- 💬 **[Discord](https://discord.com/channels/@me/1456002487843684586)**
+- 💬 **[Discord](https://discord.com/users/1456002487843684586)**
 - 🎧 **[Spotify](https://open.spotify.com/user/31imuac7lcn4jatgg53kl2mofany)**
 - 📧 **[Email](mailto:michal.barnik03@gmail.com)**
 
