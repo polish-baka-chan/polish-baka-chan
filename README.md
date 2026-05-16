@@ -106,6 +106,21 @@ Miku królowa.
 
 ---
 
+## 🎮 Favorite Games
+
+- **osu!stable** - Rhythm game, perfect for breakcore enjoyer
+- **Minecraft Java** - Creative building & survival chaos
+- **Hatsune Miku: Colorful Stage** - Miku rhythm game, certified banger
+
+---
+
+## 🎨 Favorite Anime/Manga
+
+- **Dan da Dan** - Supernatural romance comedy with insane action scenes, absolute masterpiece
+- **My Deer Friend Nokotan** - Wholesome comedy about a girl who befriended a deer, pure chaos and wholesome energy
+
+---
+
 ## 🌍 Socials
 
 - 🐙 **[GitHub](https://github.com/polish-baka-chan)**
