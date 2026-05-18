@@ -140,9 +140,9 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 
 ---
 
-## 💻 Terminal Command Easter Egg
+## 💻 Terminal Output
 
-```bash
+
 $ whoami
 > polish-baka-chan (breakcore enthusiast)
 
