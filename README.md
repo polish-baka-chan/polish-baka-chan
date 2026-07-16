@@ -41,7 +41,7 @@ fortnite: false
 
 - 🏠 Self-hosting random shit
 
-- 🐟 Fish shell only  
+- 🐟 Zsh shell only  
   no bash crimes
 
 - 🎮 Started coding at 11 and never stopped
@@ -176,7 +176,7 @@ $ neofetch
 ⚔️ STAT BREAKDOWN ⚔️
 ├─ JavaScript:         ████████░░ 80%
 ├─ Linux Admin:        ██████████ 100%
-├─ Fish Shell:         ██████████ 999%
+├─ Zsh Shell:         ██████████ 999%
 ├─ Miku Knowledge:     ██████████ ∞ (INFINITE)
 ├─ Self-hosting:       █████████░ 95%
 ├─ Touch Grass:        ░░░░░░░░░░  0%
