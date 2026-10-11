@@ -362,6 +362,7 @@ Miku królowa.
 
 - **Dan da Dan** - Supernatural romance comedy with insane action scenes, absolute masterpiece
 - **My Deer Friend Nokotan** - Wholesome comedy about a girl who befriended a deer, pure chaos and wholesome energy
+- **My Dress-Up Darling" - A Romance anime about Cosplaying obsession
 
 ---
 
