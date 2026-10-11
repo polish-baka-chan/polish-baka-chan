@@ -27,7 +27,7 @@
 ```yaml
 name: Michał
 handle: zamknijryj.tar.gz
-location: Kluki, Poland
+location: Poland
 arch_user: true
 vocaloid_enjoyer: true
 fortnite: false
