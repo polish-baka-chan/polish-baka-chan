@@ -2,23 +2,11 @@
 
 # 初音ミク永遠に
 
-`Miku songs listened: milions`
 
 [![Support on Ko-Fi](https://img.shields.io/badge/Support-Ko--Fi-FF5E5B?logo=kofi)](https://ko-fi.com/michalbarnik)
 
 </div>
 
----
-
-## 🌈 CHAOS.EXE RUNNING
-
-```
-╔═══════════════════════════════════════════╗
-║        🌈 CHAOS.EXE v2.0 ONLINE 🌈       ║
-║   miku eternal × breakcore × based        ║
-║      polish-baka-chan's shrine zone       ║
-╚═══════════════════════════════════════════╝
-```
 
 ---
 
@@ -46,24 +34,6 @@ fortnite: false
 
 - 🎮 Started coding at 11 and never stopped
 
----
-
-## 🎲 RANDOM STATUS GENERATOR
-
-```javascript
-const chaosStatus = [
-  '🎵 Converting all files to breakcore.mp3',
-  '💀 Debugging the fabric of reality',
-  '🐧 Arch Linux speedrun (0 crashes - no cap)',
-  '🔥 Running on pure Miku energy (no RAM needed)',
-  '😴 404: Sleep Protocol Not Found',
-  '⚡ Compiling miku-forever.exe',
-  '🌀 Achieving maximum chaos state',
-  '🎪 Currently in hyperfocus mode (send help)',
-  '🧠 Brain.exe consuming 9001% CPU'
-];
-// Refresh to get random status
-```
 
 ---
 
@@ -92,21 +62,6 @@ editor: LazyVim
 🧠 SANITY REMAINING:  ░░░░░░░░░░ -42%
 ```
 
----
-
-## 🛠 Tech Stack
-
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![discord.js](https://img.shields.io/badge/discord.js-purple)
-![Arch Linux](https://img.shields.io/badge/Arch-blue)
-![Hyprland](https://img.shields.io/badge/Hyprland-cyan)
-![fish](https://img.shields.io/badge/fish-darkcyan)
-![LazyVim](https://img.shields.io/badge/LazyVim-green)
-![Tailscale](https://img.shields.io/badge/Tailscale-grey)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-blue)
-![sql.js](https://img.shields.io/badge/sql.js-lightgrey)
-
----
 
 ## 📌 Dots & Links
 
@@ -136,133 +91,10 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 [⏳] Finished MikuOS (work in progress...)
 [✗] Touch grass (impossible.exe failed)
 [✗] Sleep schedule (corrupted_file.tmp)
-```
 
 ---
-
-## 💻 Terminal Output
-
-
-$ whoami
-> polish-baka-chan (breakcore enthusiast)
-
-$ git status
-> On branch miku-eternal
-> Everything is chaotic but functional
-> nothing to commit, just vibes
-
-$ cat goals.txt
-> finish MikuOS
-> touch grass (IMPOSSIBLE)
-> sleep (DEPRECATED)
-> master Caelestia Shell
-> listen to more Miku
-
-$ fortune
-> "Why sleep when you can listen to Miku?"
-
-$ neofetch
-> OS: Arch Linux (CachyOS BORE)
-> Kernel: linux-cachyos
-> Uptime: 847 days (no sleep)
-> Miku Devotion: MAXIMUM ∞
 ```
 
----
-
-## 🎯 SKILL STATS ⚔️
-
-```
-⚔️ STAT BREAKDOWN ⚔️
-├─ JavaScript:         ████████░░ 80%
-├─ Linux Admin:        ██████████ 100%
-├─ Zsh Shell:         ██████████ 999%
-├─ Miku Knowledge:     ██████████ ∞ (INFINITE)
-├─ Self-hosting:       █████████░ 95%
-├─ Touch Grass:        ░░░░░░░░░░  0%
-├─ Sleep Schedule:     ░░░░░░░░░░ -420%
-└─ Breakcore Vibes:    ██████████ 💯 IMMACULATE
-```
-
----
-
-## 🎭 TIER LIST / POWER RANKING
-
-```
-S+ TIER: ════════════════════════════════
-  └─ 🎵 Hatsune Miku (THE ETERNAL ONE)
-  └─ 🔥 Breakcore Music (CHAOS FUEL)
-
-S  TIER: ════════════════════════════════
-  └─ 🐧 Arch Linux (rolling release god)
-  └─ 🎨 Hyprland (compositor perfection)
-  └─ 🐚 Fish Shell (bash is crime)
-  └─ 🖥️ Self-hosting (freedom pills)
-
-A  TIER: ════════════════════════════════
-  └─ ✏️ LazyVim (editor supremacy)
-  └─ 🎮 osu! (rhythm game excellence)
-  └─ 🧊 Caelestia Shell (custom vibes)
-
-D  TIER: ════════════════════════════════
-  └─ 😴 Sleep (overrated concept)
-  └─ 🌱 Grass (outdated.exe)
-  └─ 👥 Social interaction (lag issues)
-
-F  TIER: ════════════════════════════════
-  └─ 🪟 Windows (bloatware central)
-  └─ 💤 Sleep Schedule (skill issue)
-  └─ 🔗 Bash (crimes against humanity)
-```
-
----
-
-## 🧩 BADGE COLLECTION
-
-```
-🏅 CERTIFIED BADGES:
-├─ 🏆 Based Certified (OFFICIAL)
-├─ 🎵 Miku Devoted (ETERNAL)
-├─ 🐧 Arch Veteran (NO REGRETS)
-├─ 💀 Sleep Deprived Warrior (PROUD)
-├─ 🔥 Chaos Incarnate (UNSTOPPABLE)
-├─ 🌀 Breakcore Connoisseur (APPROVED)
-├─ 🎯 Self-Hosted Legend (INDEPENDENT)
-├─ 🧠 Code Wizard (DEBUGGING MASTER)
-├─ 🎮 Gaming Enthusiast (COMPETITIVE)
-└─ 👑 Miku Simp Royalty (FOREVER)
-```
-
----
-
-## 🎪 CURRENTLY OBSESSED WITH:
-
-```
-🎯 THE ETERNAL HYPERFOCUS:
-   ╔════════════════════════════════════╗
-   ║ → Hatsune Miku (THE ETERNAL ONE)   ║
-   ║ → Breakcore music (CHAOS ENERGY)   ║
-   ║ → Arch Linux optimization          ║
-   ║ → Hyprland configuration           ║
-   ║ → Building MikuOS                  ║
-   ║ → Caelestia Shell customization    ║
-   ║ → Self-hosting experiments         ║
-   ║ → Sleep? Never heard of her™       ║
-   ╚════════════════════════════════════╝
-```
-
----
-
-## 💭 Wisdom of the Day
-
-```
-✨ TODAY'S TRANSMISSION ✨
-"Why sleep when you can listen to Miku 
- and configure your Linux desktop?"
-
-             - polish-baka-chan, 2026
-             (heavily sleep deprived)
-```
 
 ---
 
@@ -272,13 +104,6 @@ F  TIER: ═══════════════════════�
 - Quickshell / Caelestia Shell config
 - Linux from scratch (MikuOS)
 
----
-
-## 🎧 Music Taste
-
-`vocaloid` `breakcore` `digital hardcore` `jungle` `chaos-core` `femtanyl`
-
-Miku królowa.
 
 ---
 
@@ -291,44 +116,6 @@ Miku królowa.
 
 ---
 
-## 🎬 MOVIE CREDITS / PRODUCTION INFO
-
-```
-═══════════════════════════════════════════
-        THE ADVENTURES OF POLISH-BAKA-CHAN
-          
-         PRODUCED BY: Miku Studios ™
-        DIRECTED BY: Sleep Deprivation™
-      STARRING: polish-baka-chan (chaos.exe)
-      FEATURING: Hatsune Miku, Breakcore, Pain
-    CINEMATOGRAPHY: Arch Linux (4K 60fps)
-        EDITING: Fish Shell (no bash crimes)
-      MUSIC: Breakcore Eternal Soundtrack
-        
-         NO GRASS WAS TOUCHED
-       IN THE MAKING OF THIS README
-           
-    Special Thanks To: Miku Forever™
-═══════════════════════════════════════════
-```
-
----
-
-## ⚡ POWER LEVELS OVER 9000
-
-```
-📊 POWER LEVELS:
-  🔋 Miku Power:         ██████████ 9001+
-  💪 Based Level:        ██████████ MAXIMUM
-  🎪 Chaos Potential:    ██████████ INFINITY
-  📈 GitHub Dominance:   ██████████ ASCENDING
-  🧠 IQ Points Lost:     ██████████ -9001
-  🎵 Breakcore Energy:   ██████████ UNSTOPPABLE
-```
-
----
-
-## 🏃 SPEEDRUN STATISTICS
 
 ```
 🏃 PERSONAL BESTS:
