@@ -120,7 +120,6 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 ```
 🏃 PERSONAL BESTS:
 ├─ Arch Install speedrun: 7 mins (PB!)
-├─ Dotfiles config: 5 minutes (no cap)
 ├─ MikuOS compile time: [IN PROGRESS] ⏳
 ├─ Time to hear Miku song: 0.1 seconds
 ├─ Sleep attempt: WORLD RECORD (NEVER)
@@ -142,6 +141,8 @@ My personal **[dotfiles](https://github.com/polish-baka-chan)** containing all m
 - **osu!stable** - Rhythm game, perfect for breakcore enjoyer
 - **Minecraft Java** - Creative building & survival chaos
 - **Hatsune Miku: Colorful Stage** - Miku rhythm game, certified banger
+- **Ultrakill** - Shooting around, and then die to random things :)
+
 
 ---
 
